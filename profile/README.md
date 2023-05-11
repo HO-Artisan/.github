@@ -5,7 +5,7 @@
 
 ## HO Artisan
 
-An openness team created by Oganesson897 and Chemiofitor.
+An open and inclusive team created by Oganesson897 and Chemiofitor.
 
 </div>
 </center>
