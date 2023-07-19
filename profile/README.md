@@ -11,7 +11,7 @@ An open and inclusive team created by Oganesson897 and Chemiofitor.
 </center>
 
 A team created by Oganesson897 and Chemiofitor.    
-Main devlopment on Fabric 1.18-1.19.  
+Main devlopment on Fabric/Architectury 1.18-1.19.  
 And Modpacks & Datapacks.   
 
 -----
