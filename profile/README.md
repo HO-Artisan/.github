@@ -1,19 +1,20 @@
-<center>
 <div align="center">
 
-<img height="150" width="150" src="https://avatars.githubusercontent.com/u/125109661?s=200&v=4" alt="HO Artisan Team Icon"/>
+<img height="150" width="150" src="https://avatars.githubusercontent.com/u/125109661?s=200&v=4" alt="HO Artisan Team Icon" />
 
-## HO Artisan
+### HO Artisan
 
-An open and inclusive team created by Oganesson897 and Chemiofitor.
+###### An Open and Inclusive Team.
 
 </div>
-</center>
 
-A team created by Oganesson897 and Chemiofitor.    
-Main devlopment on Fabric/Architectury 1.18-1.19.  
-And Modpacks & Datapacks.   
+<br />
 
------
-This is a openness team, Everyone can apply to add this team.   
-Just need a issue [in our main repository](https://github.com/HO-Artisan/.github/issues).
+**HO-Artisan** is a team established by [@Oganesson897](https://github.com/Darknight123MC) and [@Chemiofitor.](https://github.com/chemiofitor)  
+We mainly do developments on **Fabric / Architectury** 1.18-1.20,  
+and Modpacks & Datapacks.   
+
+<h1></h1>
+
+**HO-Artisan** is open and inclusive.  
+If you want to become one of us, just send a issue [here.](https://github.com/HO-Artisan/.github/issues)
