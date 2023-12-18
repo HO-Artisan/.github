@@ -11,7 +11,7 @@
 <br />
 
 **HO-Artisan** is a team established by [@Oganesson897](https://github.com/Darknight123MC) and [@Chemiofitor.](https://github.com/chemiofitor)  
-We mainly do developments on **Fabric / Architectury** 1.18-1.20,  
+We mainly do developments on **Fabric / Architectury** 1.18 and above,  
 and Modpacks & Datapacks.   
 
 <h1></h1>
