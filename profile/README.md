@@ -4,17 +4,15 @@
 
 ### HO Artisan
 
-###### An Open and Inclusive Team.
-
 </div>
 
 <br />
 
-**HO-Artisan** is a team established by [@Oganesson897](https://github.com/Darknight123MC) and [@Chemiofitor.](https://github.com/chemiofitor)  
-We mainly do developments on **Fabric / Architectury** 1.18 and above,  
-and Modpacks & Datapacks.   
-
-<h1></h1>
-
-**HO-Artisan** is open and inclusive.  
-If you want to become one of us, just send an issue [here.](https://github.com/HO-Artisan/.github/issues)
+> **HO-Artisan** is a team established by [@Oganesson897](https://github.com/Darknight123MC) and [@Chemiofitor.](https://github.com/chemiofitor)  
+> We mainly do developments on **Fabric / Architectury** 1.18 and above,  
+> and Modpacks & Datapacks.
+> 
+> <h1></h1>
+>
+> We are open and inclusive.  
+> If you want to become one of us, just send an issue [here.](https://github.com/HO-Artisan/.github/issues)
