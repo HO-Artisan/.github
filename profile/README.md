@@ -17,4 +17,4 @@ and Modpacks & Datapacks.
 <h1></h1>
 
 **HO-Artisan** is open and inclusive.  
-If you want to become one of us, just send a issue [here.](https://github.com/HO-Artisan/.github/issues)
+If you want to become one of us, just send an issue [here.](https://github.com/HO-Artisan/.github/issues)
